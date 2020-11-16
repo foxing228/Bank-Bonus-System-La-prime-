@@ -1,4 +1,4 @@
-package com.fit.laprime.web.dto;
+package com.fit.laprime.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
